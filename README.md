@@ -43,6 +43,7 @@ This project implements a face recognition-based attendance system using OpenCV 
 ## Project Structure
 
 Face-Recognition-Based-Attendance-System/
+
 │
 ├── Attendance/ # Attendance records
 
