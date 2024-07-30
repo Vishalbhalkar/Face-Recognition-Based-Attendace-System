@@ -45,6 +45,7 @@ This project implements a face recognition-based attendance system using OpenCV 
 Face-Recognition-Based-Attendance-System/
 
 │
+
 ├── Attendance/ # Attendance records
 
 ├── ImagesUnknown/ # Unknown face images
