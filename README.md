@@ -45,14 +45,23 @@ This project implements a face recognition-based attendance system using OpenCV 
 Face-Recognition-Based-Attendance-System/
 │
 ├── Attendance/ # Attendance records
+
 ├── ImagesUnknown/ # Unknown face images
+
 ├── StudentDetails/ # CSV file with student details
+
 ├── TrainingImageLabel/ # Trained model file
+
 ├── TrainingImages/ # Captured training images
+
 ├── Layout_and_code.py # Main application code
+
 ├── haarcascade_frontalface_default.xml # Haarcascade for face detection
+
 ├── README.md # Project documentation
+
 ├── requirements.txt # List of dependencies
+
 └── Untitled5.ipynb # Jupyter notebook for testing
 
 ## Contributing
